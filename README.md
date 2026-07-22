@@ -71,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
