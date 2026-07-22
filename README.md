@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0066-plus-one) |
+| [0179-largest-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0179-largest-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Two Pointers
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
@@ -47,5 +49,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0179-largest-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
