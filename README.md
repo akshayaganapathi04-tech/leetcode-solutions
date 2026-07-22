@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1748-sum-of-unique-elements](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1748-sum-of-unique-elements](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
