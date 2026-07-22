@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0344-reverse-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
