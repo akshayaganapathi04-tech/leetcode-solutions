@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0739-daily-temperatures](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -120,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
