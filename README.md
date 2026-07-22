@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0509-fibonacci-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
