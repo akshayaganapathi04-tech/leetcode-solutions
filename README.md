@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0202-happy-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
