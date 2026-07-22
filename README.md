@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0202-happy-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0342-power-of-four) |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
