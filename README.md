@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -161,12 +163,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
