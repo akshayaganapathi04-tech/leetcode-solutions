@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
