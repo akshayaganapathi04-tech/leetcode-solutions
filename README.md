@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1447-simplified-fractions](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/1447-simplified-fractions) |
 ## Array
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1447-simplified-fractions](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/1447-simplified-fractions) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -219,4 +221,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/1447-simplified-fractions) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/1447-simplified-fractions) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
