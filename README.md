@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1447-simplified-fractions](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/1447-simplified-fractions) |
+| [2769-find-the-maximum-achievable-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 ## Array
 |  |
 | ------- |
