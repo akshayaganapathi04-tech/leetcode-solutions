@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
