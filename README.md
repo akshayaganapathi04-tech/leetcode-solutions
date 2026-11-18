@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1447-simplified-fractions](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/1447-simplified-fractions) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0052-n-queens-ii) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Memoization
 |  |
 | ------- |
