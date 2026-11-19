@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/akshayaganapathi04-tech/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
 |  |
